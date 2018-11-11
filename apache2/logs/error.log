@@ -286,3 +286,4 @@
 [Sat Nov 10 20:34:48.206927 2018] [mpm_winnt:notice] [pid 3668:tid 600] AH00418: Parent: Created child process 6580
 [Sat Nov 10 20:34:52.519243 2018] [ssl:warn] [pid 6580:tid 732] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
 [Sat Nov 10 20:34:57.149134 2018] [ssl:warn] [pid 6580:tid 732] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Nov 10 20:34:58.301451 2018] [mpm_winnt:notice] [pid 6580:tid 732] AH00354: Child: Starting 64 worker threads.

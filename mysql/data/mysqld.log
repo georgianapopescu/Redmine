@@ -1529,3 +1529,6 @@ Version: '5.6.41'  socket: ''  port: 3306  MySQL Community Server (GPL)
 2018-11-10 20:34:45 3832 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
 2018-11-10 20:34:45 3832 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
 2018-11-10 20:34:45 3832 [Note] Server socket created on IP: '127.0.0.1'.
+2018-11-10 20:34:45 3832 [Note] Event Scheduler: Loaded 0 events
+2018-11-10 20:34:45 3832 [Note] C:\Bitnami\redmine-3.4.6-3\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.41'  socket: ''  port: 3306  MySQL Community Server (GPL)
